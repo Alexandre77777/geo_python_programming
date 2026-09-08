@@ -8,7 +8,7 @@
 
 [Статистика выполнения работ **2024-КФ-КГ-2б , 2024-КФ-КГ-4б**](https://docs.google.com/spreadsheets/d/1Vw1jtG-fcYJmUV-LidRKgoJEhJxdCF1EBgpaB5ot3l0) 
 
-[Статистика выполнения работ **2024-ФАиГ-АРХ-1б , 2024-ФАиГ-Град-1б , 2024-КФ-КГ-1б , 2024-ФАиГ-АРХ-2б , 2024-КФ-КГ-3б**](https://docs.google.com/spreadsheets/d/1Vw1jtG-fcYJmUV-LidRKgoJEhJxdCF1EBgpaB5ot3l0)
+[Статистика выполнения работ **2024-ФАиГ-АРХ-1б , 2024-ФАиГ-Град-1б , 2024-КФ-КГ-1б , 2024-ФАиГ-АРХ-2б , 2024-КФ-КГ-3б**](https://docs.google.com/spreadsheets/d/1Vw1jtG-fcYJmUV-LidRKgoJEhJxdCF1EBgpaB5ot3l0/edit?gid=1533910966#gid=1533910966)
 
 ---
 
